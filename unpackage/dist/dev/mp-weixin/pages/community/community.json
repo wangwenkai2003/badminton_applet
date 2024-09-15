@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "社区",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-dynamics-card": "../../commpoents/myDynamicsCard/myDynamicsCard",
+    "follow-card": "../../commpoents/followCard/followCard",
+    "equipment-card": "../../commpoents/equiptmentCard/equiptmentCard"
+  }
+}

@@ -1,0 +1,17 @@
+"use strict";
+const _imports_0$2 = "/static/man.png";
+const _imports_1 = "/static/woman.png";
+const _imports_2 = "/static/update.png";
+const _imports_3 = "/static/collect.png";
+const _imports_4 = "/static/reserve.png";
+const _imports_5 = "/static/layout.png";
+const _imports_0$1 = "/static/badminton.svg";
+const _imports_0 = "/static/img.png";
+exports._imports_0 = _imports_0$2;
+exports._imports_0$1 = _imports_0$1;
+exports._imports_0$2 = _imports_0;
+exports._imports_1 = _imports_1;
+exports._imports_2 = _imports_2;
+exports._imports_3 = _imports_3;
+exports._imports_4 = _imports_4;
+exports._imports_5 = _imports_5;

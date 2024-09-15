@@ -1,0 +1,21 @@
+
+.messageView{
+}
+.bottom-bar {
+  position: fixed;
+  bottom: 0rpx; /* 底部距离 */
+  left: 0;
+  right: 0;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+}
+.input-box {
+  flex: 1;
+  height: 100%;
+  padding: 0 10px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}

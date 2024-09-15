@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "pify": "^6.1.0",
+    "pinia": "^2.1.6",
+    "qs": "^6.11.2",
+    "uni-hold-tabbar": "^1.0.0",
+    "uni-simple-router": "2.0.8-beta.4"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2"
+  }
+}

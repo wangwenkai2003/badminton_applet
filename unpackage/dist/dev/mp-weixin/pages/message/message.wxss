@@ -1,0 +1,8 @@
+
+.chat_item{
+		height: 15vh;
+		border-bottom:1px solid #f4f4f4 ;
+		padding: 20rpx;
+		display: flex;
+		align-items: center;
+}

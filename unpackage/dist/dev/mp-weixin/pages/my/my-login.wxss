@@ -1,0 +1,8 @@
+
+.form-item{
+	margin-bottom: 5rpx;
+	padding: 5rpx;
+	line-height: 80rpx;
+	height: 80rpx;
+	border: 1px #f4f4f4 solid;
+}

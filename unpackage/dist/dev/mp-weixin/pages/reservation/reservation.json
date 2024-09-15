@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "场馆预约",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-data-select": "../../uni_modules/uni-data-select/components/uni-data-select/uni-data-select",
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card"
+  }
+}

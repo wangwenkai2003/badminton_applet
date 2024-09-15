@@ -1,0 +1,16 @@
+
+.form-item{
+	margin-bottom: 5rpx;
+	padding: 5rpx;
+	line-height: 80rpx;
+	height: 80rpx;
+	border: 1px #f4f4f4 solid;
+}
+.update-form{
+	display: flex;
+	align-items: center;
+	line-height: 80rpx;
+	margin-bottom: 10rpx;
+	height: 80rpx;
+	padding: 5rpx;
+}

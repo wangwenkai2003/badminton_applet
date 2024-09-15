@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/community/community",
+    "pages/reservation/reservation",
+    "pages/my/my",
+    "pages/my/my-login",
+    "pages/my/update-user",
+    "commpoents/myDynamicsCard/myDynamicsCard",
+    "pages/follow/UserFollow",
+    "pages/message/message",
+    "pages/reservation/reserveForm",
+    "commpoents/equiptmentCard/equiptmentCard",
+    "pages/community/equiptmentRelease",
+    "pages/community/equiptmentDetail"
+  ],
+  "subPackages": [
+    {
+      "root": "subpkg",
+      "pages": [
+        "chat/chat",
+        "userDeatil/userDeatil",
+        "collect/collect",
+        "myclloect/myclloect"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "长大羽球",
+    "navigationBarBackgroundColor": "#5cd375",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/community/community",
+        "text": "社区"
+      },
+      {
+        "pagePath": "pages/reservation/reservation",
+        "text": "场馆预约"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
